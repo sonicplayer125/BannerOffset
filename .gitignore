@@ -1,0 +1,9 @@
+# Theos build output
+.theos/
+obj/
+packages/
+*.deb
+*.dylib
+*.o
+*.dSYM/
+.DS_Store

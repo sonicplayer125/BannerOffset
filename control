@@ -1,0 +1,9 @@
+Package: com.sonic125.banneroffset
+Name: BannerOffset
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Moves notification banners down (or in any direction) by a hardcoded offset. Notification Center is not changed.
+Maintainer: SonicPLR125
+Author: SonicPLR125
+Section: Tweaks
+Depends: mobilesubstrate
